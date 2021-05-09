@@ -1,2 +1,2 @@
-# MyFlixList\
+# MyFlixList
 Android 11 application in Java using a Node.js backend with Axios deployed on Google App Engine to retrieve JSON data from TMDB API, Volley for HTTP requests to load the data, and Glide to display image posters. Created Home, Search, and Watchlist fragments with a BottomNavigationView to display trending movies and TV shows, allow users to search for any movies or TV shows, and add them to their Watchlist using SharedPreferences.
